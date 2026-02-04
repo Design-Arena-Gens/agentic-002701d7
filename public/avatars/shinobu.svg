@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="480" viewBox="0 0 320 480">
+  <defs>
+    <linearGradient id="shinobuBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e3a8a"/>
+    </linearGradient>
+    <linearGradient id="shinobuAccent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="480" rx="36" fill="url(#shinobuBg)"/>
+  <ellipse cx="160" cy="120" rx="80" ry="70" fill="#1d244b" opacity="0.45"/>
+  <path d="M66 360 C110 300 210 300 254 360 L236 420 C196 400 124 400 84 420 Z" fill="url(#shinobuAccent)" opacity="0.7"/>
+  <path d="M106 220 Q160 170 214 220 L220 260 Q202 284 160 294 Q118 284 100 260 Z" fill="#fdf4ff" opacity="0.85"/>
+  <path d="M126 140 Q160 90 194 140 Q200 168 194 198 Q160 210 126 198 Q120 168 126 140 Z" fill="#f5f3ff"/>
+  <path d="M96 170 Q160 128 224 170 Q210 196 160 208 Q110 196 96 170 Z" fill="#312e81"/>
+  <path d="M103 152 Q160 126 217 152 Q208 140 160 118 Q112 140 103 152 Z" fill="#e0e7ff"/>
+  <circle cx="138" cy="182" r="10" fill="#1f2937"/>
+  <circle cx="182" cy="182" r="10" fill="#1f2937"/>
+  <path d="M148 222 Q160 234 172 222" stroke="#312e81" stroke-width="6" stroke-linecap="round" fill="none"/>
+</svg>
